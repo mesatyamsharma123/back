@@ -5,7 +5,8 @@ function Home() {
   return (
     <div className=' flex flex-col items-center justify-center h-screen w-screen bg-cover' style={{backgroundImage:`url(${pic})`}}>
  <div className='w-xs md:w-sm bg-white rounded-2xl bg-cover h-200' style={{backgroundImage:`url(${pic2})`}} >
-cvv
+jb,b.bk.bk.bk,bb.b.
+mhvhvvjvjvlbvklbklblb
  </div>
     </div>
   )
